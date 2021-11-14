@@ -1,2 +1,3 @@
-# bio_python
+# Bio Python
+
 Python based bio and md analysis setup
